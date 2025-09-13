@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <Button HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                FontSize="50" 
+                Click="Button_Click" >
+            Отключить кнопку</Button>
     </Grid>
 </Window>
